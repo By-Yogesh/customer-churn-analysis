@@ -15,4 +15,4 @@ driving customer attrition and provide actionable business insights.
 - dashboard/: dashboards and visual outputs
 
 ## Status
-In progress
+It's In progress 
